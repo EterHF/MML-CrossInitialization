@@ -1,3 +1,10 @@
+# TODO LIST:
+## Check out the relationship between overfitting and embedding shifting during optimizing
+## Propose a new method to improve face personalzation, such as embedding projection
+## Generalize beyond other categories, try to introduce other modules to enhance initialization
+
+# Below are original README from https://github.com/lyuPang/CrossInitialization
+
 # Cross Initialization (CVPR 2024)
 
 Official Implementation of **"Cross Initialization for Face Personalization of Text-to-Image Models"** by Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li, Xudong Mao
